@@ -6,6 +6,8 @@ The **Education Streaming Platform** is a decentralized platform built on the Et
 
 ## Contract Address
   0x9088bd6ED8a4686BF4b71744b2Bb1a78353103BE
+  ![image](https://github.com/user-attachments/assets/8f4c9310-236e-4499-b916-7c418a0dfeb9)
+
 ## Project Vision
 The vision of the **Education Streaming Platform** is to democratize education by making high-quality courses accessible globally. Through a decentralized approach, the platform aims to provide a fair and transparent environment for both instructors and students. The goal is to empower instructors to monetize their educational content directly, while offering students a seamless, secure, and efficient way to learn from top-notch instructors worldwide.
 
